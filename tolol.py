@@ -4,7 +4,7 @@ import threading
 import os,sys
 
 os.system("clear")
-print("UBAH INI")
+print("DDOS BY PCRP")
 ip = str(input(" Ip:"))
 port = int(input(" Port:"))
 choice = str(input(" (y/n):"))
